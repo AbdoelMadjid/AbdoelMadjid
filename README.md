@@ -6,7 +6,8 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdoel+Madjid!;" />
 </h1>
 
-### About Me : 
+<h2 align="left">About Me : </h2>
+
 <div align="center">
 <img src="https://avatars.githubusercontent.com/u/2272221?v=4" height="100"/>
 
@@ -63,7 +64,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <br/>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/abdoelmadjid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdoelmadjid" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/7070680/abdul-madjid" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="abdulmadjid" height="30" width="40" /></a>
