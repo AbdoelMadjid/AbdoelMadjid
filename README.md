@@ -1,10 +1,10 @@
 ## Hi there 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdoel+Madjid!;" />
 </div>
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdoel+Madjid!;" />
-</h1>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h2 align="left">About Me : </h2>
 
@@ -21,8 +21,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdoelmadjid/)
 </div>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h2 align="left">Languages-Frameworks-Tools</h2>
 
@@ -62,7 +60,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </p>
 
 <br/>
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h2 align="left">Connect with me:</h2>
 <p align="left">
@@ -74,9 +71,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abdoelmadjid" height="30" width="40" /></a>
 </p>
 
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">My Stats :</h3>
+<h2 align="left">My Stats :</h2>
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbdoelMadjid&theme=dark&background=000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdoelMadjid&layout=compact&theme=vision-friendly-dark)
