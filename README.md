@@ -13,14 +13,13 @@
 **AbdoelMadjid/AbdoelMadjid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/2272221?v=4" height="100"/>
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
-  <img src="https://avatars.githubusercontent.com/u/2272221?v=4" height="100"/>
 </div>
 
 ---
 
-### :woman_technologist: About Me :
+### :woman_technologist: About Me : 
+<img src="https://avatars.githubusercontent.com/u/2272221?v=4" height="100"/>
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Indonesia.
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
