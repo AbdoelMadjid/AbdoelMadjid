@@ -55,6 +55,16 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 ---
 
+<div align="center">
+  <h2>🐍 My Contributions 🐍</h2>
+  <br>
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/abdoelmadjid/abdoelmadjid/output/github-contribution-grid-snake.svg" />
+  
+  <br/><br/><br/>
+</div>
+
+---
+
 ### :fire: My Stats :
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbdoelMadjid&theme=dark&background=000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdoelMadjid&layout=compact&theme=vision-friendly-dark)
