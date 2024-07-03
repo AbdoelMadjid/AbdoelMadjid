@@ -32,7 +32,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </div>
 
 ---
-<br>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abdoelmadjid/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abdoelmadjid" height="30" width="40" /></a>
@@ -42,7 +42,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <a href="https://www.youtube.com/@AbdulMadjidMPd
 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abdoelmadjid" height="30" width="40" /></a>
 </p>
-<br>
 
 ---
 
