@@ -23,8 +23,6 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-
-
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 - Backend
 <p align="left">
@@ -74,9 +72,9 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abdoelmadjid" height="30" width="40" /></a>
 </p>
 
----
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-### :fire: My Stats :
+<h3 align="left">My Stats :</h3>
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbdoelMadjid&theme=dark&background=000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdoelMadjid&layout=compact&theme=vision-friendly-dark)
 ![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AbdoelMadjid)
