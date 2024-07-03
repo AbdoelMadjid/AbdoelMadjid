@@ -38,7 +38,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,php,css,vscode,github,git,r,composer" />
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,html,php,css,vscode,github,git,composer" /><br>
     <img src="https://skillicons.dev/icons?i=nodejs,javascript,typescript,c,java,nextjs,mysql" /><br>
     <img src="https://skillicons.dev/icons?i=laravel,codepen,wordpress" /><br>
 </div>
