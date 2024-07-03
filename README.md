@@ -21,12 +21,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdoelmadjid/)
 </div>
 
----
-
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
+
+
+<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
@@ -62,7 +61,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   </a>
 </p>
 
----
+<br/>
+<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
