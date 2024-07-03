@@ -1,7 +1,7 @@
 ## Hi there 👋
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-
+  <br>
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Abdoel+Madjid!;" />
 </div>
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
@@ -21,6 +21,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/abdoelmadjid/)
 </div>
+
+<br/>
 
 <h2 align="left">Languages-Frameworks-Tools</h2>
 
@@ -70,6 +72,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <a href="https://www.youtube.com/@AbdulMadjidMPd
 " target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="abdoelmadjid" height="30" width="40" /></a>
 </p>
+
+<br/>
 
 <h2 align="left">My Stats :</h2>
 
