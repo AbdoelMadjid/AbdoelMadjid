@@ -24,6 +24,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
+<br>
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
