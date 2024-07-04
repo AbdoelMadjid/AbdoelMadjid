@@ -36,7 +36,7 @@
    </tr>
 </table>
 
-[![AbdoelMadjid`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdoelmadjid&theme=github-compact)](https://github.com/abdoelmadjid/github-readme-activity-graph)
+
 
 <br/>
 
@@ -56,6 +56,9 @@
      <td> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdoelmadjid&theme=radical&layout=compact)](https://github.com/abdoelmadjid) </td>
    </tr>
   </table>
+
+[![AbdoelMadjid`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdoelmadjid&theme=github-compact)](https://github.com/abdoelmadjid/github-readme-activity-graph)
+
 
 ## Let's colab 🚀
 
