@@ -59,7 +59,9 @@
 
 [![AbdoelMadjid`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdoelmadjid&theme=github-compact)](https://github.com/abdoelmadjid/github-readme-activity-graph)
 
-
+ <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer"/>
+</p>
 ## Let's colab 🚀
 
 🌟 I'm always open to collaborating on exciting projects and ideas. If you share similar interests or have a project you'd like to work on together, feel free to reach out on the socials below!
