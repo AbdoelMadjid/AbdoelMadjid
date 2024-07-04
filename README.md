@@ -28,7 +28,7 @@
    <tr>
      <td width="50%"> 
 - Backend
-<p align="left">
+<p align="left" width="50%">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
   </a>
