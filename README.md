@@ -66,7 +66,8 @@
 <table align="center" width="100%" height="100%" >
    <tr>
      <td> 
-![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbdoelMadjid&theme=dark&background=000000) </td>
+
+       ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbdoelMadjid&theme=dark&background=000000) </td>
 </tr>
   </table>
 <table align="center" width="100%" height="100%" >
