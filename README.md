@@ -63,8 +63,8 @@
 <br/>
 
 <h2> My Projects 📁</h2>
-<a href="https://github.com/yeazin/Movement-Pass-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Movement-Pass-Clone" />
+<a href="https://github.com/abdoelmadjid/template-lcks">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abdoelmadjid&theme=react&repo=template-lcks" />
 </a>
 <a href="https://github.com/yeazin/Multi-Authors-advanced-Django-Blog">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Multi-Authors-advanced-Django-Blog" />
