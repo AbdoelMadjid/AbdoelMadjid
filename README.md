@@ -40,7 +40,7 @@
 
 <br/>
 
-<h2 align="left">My Stats :</h2>
+<h2 align="left">My Stats 📈 :</h2>
 <table align="center" width="100%" height="100%" >
    <tr>
      <td> 
