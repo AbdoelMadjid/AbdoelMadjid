@@ -36,6 +36,8 @@
    </tr>
 </table>
 
+[![AbdoelMadjid`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdoelmadjid&theme=github-compact)](https://github.com/abdoelmadjid/github-readme-activity-graph)
+
 <br/>
 
 <h2 align="left">My Stats :</h2>
