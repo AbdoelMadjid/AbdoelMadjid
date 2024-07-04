@@ -26,7 +26,7 @@
 <h2 align="left">Languages-Frameworks-Tools</h2>
 <table align="center" width="100%" height="100%" >
    <tr>
-     <td> 
+     <td width="50%"> 
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
