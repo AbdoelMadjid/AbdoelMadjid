@@ -24,14 +24,18 @@
 <br/>
 
 <h2 align="left">Languages-Frameworks-Tools</h2>
-
+<table align="center" width="100%" height="100%" >
+   <tr>
+     <td> 
 - Backend
 <p align="left">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,py,spring,flask,fastapi,express,nestjs" />
   </a>
 </p>
-
+     </td>
+   </tr>
+</table>
 - Frontend
 <p align="left">
   <a href="https://skillicons.dev">
