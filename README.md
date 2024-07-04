@@ -62,24 +62,17 @@
 
 <br/>
 
-<h2> My Projects 📁</h2>
-<a href="https://github.com/abdoelmadjid/template-lcks">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=abdoelmadjid&theme=react&repo=template-lcks" />
-</a>
-<a href="https://github.com/yeazin/Multi-Authors-advanced-Django-Blog">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Multi-Authors-advanced-Django-Blog" />
-</a>
- <a href="https://github.com/yeazin/Stackoverflow-Clone">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Stackoverflow-Clone" />
-</a>
- <a href="https://github.com/yeazin/Zooming-cls">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=yeazin&theme=react&repo=Zooming-cls" />
-</a>
-
-<br/>
-
 <h2 align="left">My Stats :</h2>
 
 ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbdoelMadjid&theme=dark&background=000000)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdoelMadjid&layout=compact&theme=vision-friendly-dark)
 
+## Let's colab 🚀
+
+🌟 I'm always open to collaborating on exciting projects and ideas. If you share similar interests or have a project you'd like to work on together, feel free to reach out on the socials below!
+
+<p>
+  <a href="mailto:abdulmadjid.mpd@gmail.com" target="_blank"><img alt="E-mail" src="https://img.shields.io/badge/-Gmail-ea4335?style=flat-square&logo=Gmail&logoColor=white" /></a>
+  <a href="wa.me/081230000420" target="_blank"><img alt="WhatsApp" src="https://img.shields.io/badge/-WhatsApp-42e35f?style=flat-square&logo=whatsapp&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/abdoelmadjid" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-007ACC?style=flat-square&logo=linkedin&logoColor=white" />
+</p>
