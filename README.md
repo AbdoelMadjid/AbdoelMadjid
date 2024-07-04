@@ -65,16 +65,8 @@
 <h2 align="left">My Stats :</h2>
 <table align="center" width="100%" height="100%" >
    <tr>
-     <td>
-       
-       ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbdoelMadjid&theme=dark&background=000000)
-       
-     </td>
-     <td>
-     
-       ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdoelMadjid&layout=compact&theme=vision-friendly-dark)
-       
-     </td>
+     <td>  ![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AbdoelMadjid&theme=dark&background=000000) </td>
+     <td>  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdoelMadjid&layout=compact&theme=vision-friendly-dark) </td>
   </tr>
 </table>
 
