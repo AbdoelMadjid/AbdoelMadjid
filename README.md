@@ -23,7 +23,7 @@
 
 <br/>
 
-<h2 align="left">Languages-Frameworks-Tools</h2>
+<h2> Technologies I like to work with ❤️</h2>
 <table align="center" width="100%" height="100%" >
    <tr>
      <td>
