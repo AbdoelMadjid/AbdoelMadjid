@@ -29,7 +29,7 @@
      <td>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,js,react,tailwind,materialui,mongodb,mysql,postgresql,git,github,docker,figma,vscode,postman,linux,laravel,angular,wordpress&perline=5" />
+    <img src="https://skillicons.dev/icons?i=php,bootstrap,css,laravel,cpp,java,nodejs,js,react,tailwind,materialui,mongodb,mysql,postgresql,git,github,docker,vscode,linux,angular,wordpress,codepen&perline=5" />
   </a>
 </p>
      </td>
