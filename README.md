@@ -26,46 +26,15 @@
 <h2 align="left">Languages-Frameworks-Tools</h2>
 <table align="center" width="100%" height="100%" >
    <tr>
-     <td width="50%"> 
-- Backend
+     <td>
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs" />
+    <img src="https://skillicons.dev/icons?i=php,laravel,java,nodejs,ts,js,react,tailwind,materialui,mongodb,mysql,postgresql,git,github,docker,figma,xd,idea,vscode,postman,linux&perline=3" />
   </a>
 </p>
-     </td>
-     <td>
-- Frontend
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,tailwind,materialui" />
-  </a>
-</p>  
      </td>
    </tr>
 </table>
-
-
-- Database
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-  </a>
-</p>
-
-- Cloud Servers
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=azure,aws,gcp,firebase,cloudflare" />
-  </a>
-</p>
-
-- Tools
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,docker,figma,xd,idea,vscode,postman,linux" />
-  </a>
-</p>
 
 <br/>
 
