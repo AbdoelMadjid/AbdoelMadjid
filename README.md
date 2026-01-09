@@ -41,22 +41,6 @@
 <br/>
 
 <h2 align="left">My Stats 📈 :</h2>
-<table align="center" width="100%" height="100%" >
-   <tr>
-     <td> 
-
-  ![GitHub Streak](https://streak-stats.demolab.com?user=AbdoelMadjid&theme=dark&background=000000)
- </td>
-</tr>
-  </table>
-<table align="center" width="100%" height="100%" >
-   <tr>
-     <td> 
-  
-![Github stats](https://github-readme-stats.vercel.app/api?username=abdoelmadjid&theme=radical&show_icons=true&count_private=true&hide=issues) </td>
-     <td> [[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abdoelmadjid&theme=radical&layout=compact)](https://github.com/abdoelmadjid)](https://github-readme-stats.vercel.app/api?username=abdoelmadjid&cache_seconds=86400) </td>
-   </tr>
-  </table>
 
 [![AbdoelMadjid`s github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=abdoelmadjid&theme=github-compact)](https://github.com/abdoelmadjid/github-readme-activity-graph)
 
